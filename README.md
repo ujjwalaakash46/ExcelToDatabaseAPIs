@@ -2,6 +2,7 @@
 # Excel to Database
 
 API to upload data from Excel to Database and to get data from Database.
+Use the Excel file added in the project as it's the same original excel but with couple of invalid data filtered.
 
 Using H2 Database for the easiness to test the project.
 
